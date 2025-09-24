@@ -10,6 +10,8 @@ An action recognition deep learning model built in a Jupyter notebook using Pyth
 - Hello
 - I love you
 - Thanks
+- https://www.youtube.com/shorts/1JAEeHEDvI0
+- https://www.youtube.com/watch?v=0FcwzMq4iWg
 
 ## Used Python Libraries
 - os
