@@ -33,7 +33,7 @@ An action recognition deep learning model built in a Jupyter notebook using Pyth
 
 ### Next steps
 **Combination of Action Recognition and Arduino**: <br>
-**Key components**: Arduino, LCD, Push-buttons 
+**Key hardware components**: Arduino, LCD, Push-buttons 
 - Translator robot
 - Build a robot body using CAD
 - Sign language to normal language (display on LCD), or vice versa
