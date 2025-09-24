@@ -28,7 +28,7 @@ An action recognition deep learning model built in a Jupyter notebook using Pyth
 # Phase 2: Sign Language Translator can be implemented in assistive robots
 
 ## Project Overview:
-Assistive robot, sign language recognition implemented. This robot helps communicate with people between a deaf and a non-deaf person. 
+3D-printed assistive robot with sign language recognition implemented. It helps facilitate communication between deaf and non-deaf individuals
 
 ## Next steps
 Combination of Action Recognition and Arduino:
