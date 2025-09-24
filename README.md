@@ -3,6 +3,7 @@
 ## Project Overview
 An action recognition deep learning model built in a Jupyter notebook using Python. This model can recognize the American Sign Language phrases listed below. 
 <br>
+<br>
 **Detailed steps and code are in the Jupyter notebook named Sign_Lang_Recognition.ipynb**
 <br>
 ## American Sign Language Phrases
