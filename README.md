@@ -38,6 +38,7 @@ Combination of Action Recognition and Arduino:
 - Language (by input text box) to sign language (shown by image popup)
 - Sign Language through a webcam to Language through an LCD 
 - Very limited phrases(b/c memory), webcam can be replaced with a camera on the robot, LCD to screen on the robot
+- Attach test videos
 
 ## Key components: Arduino, LCD, Push-buttons 
 Find a way to integrate a Python program with an Arduino
