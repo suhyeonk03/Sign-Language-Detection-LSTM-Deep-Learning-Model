@@ -32,7 +32,7 @@ An action recognition deep learning model built in a Jupyter notebook using Pyth
 3D-printed assistive robot with sign language recognition implemented. It helps facilitate communication between deaf and non-deaf individuals
 
 ### Next steps
-**Combination of Action Recognition and Arduino**:
+**Combination of Action Recognition and Arduino**: <br>
 **Key components**: Arduino, LCD, Push-buttons 
 - Translator robot
 - Build a robot body using CAD
