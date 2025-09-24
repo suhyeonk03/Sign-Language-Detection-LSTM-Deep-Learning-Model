@@ -1,9 +1,9 @@
 # Sign Language Recognition for an Assistive Robot
+
+### Project Overview
 An assistive robot that facilitates communication between deaf and non-deaf individuals by using an LSTM model trained on __ American Sign Language phrases
 
 ## Phase 1: Sign-Language-Detection-LSTM-Deep-Learning-Model
-
-### Project Overview
 An action recognition deep learning model built in a Jupyter notebook using Python. This model can recognize the American Sign Language phrases listed below. 
 <br>
 <br>
@@ -29,8 +29,6 @@ An action recognition deep learning model built in a Jupyter notebook using Pyth
 - cv2
 
 ## Phase 2: Implement the model in assistive robots
-
-### Project Overview:
 3D-printed assistive robot with sign language recognition implemented. It helps facilitate communication between deaf and non-deaf individuals
 
 ### Next steps
